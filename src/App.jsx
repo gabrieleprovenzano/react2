@@ -1,9 +1,7 @@
-import { HelloWorld } from "./HelloWorld";
+import Users from "./Users";
 
 export function App() {
     return(
-        <div>
-            <HelloWorld />
-        </div>
+        <Users />
     )
 }
